@@ -1,0 +1,45 @@
+.tit{
+    text-align: center;
+    color: rgb(4, 149, 149);
+}
+.links{
+    text-align: right;
+    width: 50px;
+}
+.sub{
+    text-align: center;
+    color: darkcyan;
+}
+div{
+    text-align: center;
+    background-color: rgb(240, 248, 255);
+}
+body{
+    background-color: aliceblue;
+}
+.nocao{
+    color: cadetblue;
+}
+.Importante{
+    color: darkslategrey;
+}
+li{
+    color: darkslategrey;
+}
+p{
+    color: darkslategray;
+    
+}
+h3{
+    color: darkslateblue;
+}
+h1{
+    text-align: center;
+    color: rgb(4, 149, 149);
+}
+.atrocidade{
+    text-align: center;
+}
+.title{
+    text-align: center;
+}
